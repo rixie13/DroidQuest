@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DriodQuest</string>
+
+    <string name="true_button">Да </string>
+    <string name="false_button">Нет </string>
+    <string name="action_setting">Setting </string>
+    <string name="correct_toast">Верно</string>
+    <string name="incorrect_toast">Не верно</string>
+    <string name="next_button">Далее</string>
+    <string name="back_button">Назад</string>
+    <string name="question_android">ОС Android  основана на ядре Linux.</string>
+    <string name="question_nat">В 2014 году Аральское море полностью высохло.</string>
+    <string name="question_nob">В 1935 году Нобелевской премией мира был награжден человек из Третьего рейха.</string>
+    <string name="question_res">На самом деле Наполеон Бонапарт был ростом около 180 см.</string>
+    <string name="question_city">Российский город Дербент древнее египетского Каира.</string>
+    <string name="question_bio">Рибосомы - это органеллы клетки, в которых образуются энергия необходимая для существования оргнизма.</string>
+    <string name="warning_text">Вы уверены, что хотите это сделать</string>
+    <string name="show_answer_button">Показать ответ</string>
+    <string name="deceit_button">Обмануть!</string>
+    <string name="judgment_toast">Обманывать нельзя</string>
+    <string name="title_activity_deceit" />
+</resources>
